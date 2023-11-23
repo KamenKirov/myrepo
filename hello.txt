@@ -1,1 +1,3 @@
 Hello from Kamen!
+NEW LINE
+Third line
